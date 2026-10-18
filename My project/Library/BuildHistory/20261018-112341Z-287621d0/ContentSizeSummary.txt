@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                      4
+Resource file count                        2
+Object count                            1730
+Serialized Files                       1.0 mb	  20.9%
+Serialized Files Headers              53.2 kb	   1.1%
+Resource data (Texture,Audio...)       3.9 mb	  79.1%
+Total build size                       4.9 mb
+
+Largest Types:
+     3.4 mb	  69.0% Texture2D
+   647.1 kb	  12.8% Shader
+   512.2 kb	  10.2% Cubemap
+   194.6 kb	   3.9% MonoScript
+   127.5 kb	   2.5% ComputeShader
+
+Largest Assets:
+   522.8 kb	  10.4% Resources/unity_builtin_extra
+   262.6 kb	   5.2% Packages/com.unity.render-pipelines.universal/Textures/SMAA/AreaTex.tga
+    72.1 kb	   1.4% Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrass.shader
+    70.0 kb	   1.4% Packages/com.unity.render-pipelines.universal/Shaders/Utils/CoreBlit.shader
+    68.3 kb	   1.4% Packages/com.unity.render-pipelines.core/Runtime/Vrs/Shaders/VrsTexture.compute
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_5.png
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_6.png
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_1.png
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_2.png
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_0.png
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_4.png
+    64.2 kb	   1.3% Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_3.png
+    54.9 kb	   1.1% Packages/com.unity.render-pipelines.universal/Shaders/Utils/ScreenSpaceAmbientOcclusion.shader
+-------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "My project",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "AutoRunPlayer",
+        "StrictMode"
+    ],
+    "BuildProfilePath": "Assets/Settings/Build Profiles/Windows.asset",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "287621d0889aac245aaf51b3c69d2c69",
+    "BuildStartedAt": "2026-10-18T11:23:41.1116902Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "00000000000000000000000000000000",
+    "OutputPath": "C:/projects/j100_auto_rts/My project/Build/My project.exe",
+    "Platform": 19,
+    "PlatformName": "StandaloneWindows64",
+    "Subtarget": 2,
+    "SubtargetName": "Player",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 105643131,
+    "TotalTimeMs": 405177,
+    "TotalWarnings": 1
+}

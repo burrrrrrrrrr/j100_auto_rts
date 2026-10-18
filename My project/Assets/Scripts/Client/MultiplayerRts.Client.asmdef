@@ -1,0 +1,28 @@
+﻿{
+    "name":  "MultiplayerRts.Client",
+    "rootNamespace":  "MultiplayerRts.Client",
+    "references":  [
+                       "MultiplayerRts.Core",
+                       "MultiplayerRts.Net",
+                       "Unity.Netcode.Runtime"
+                   ],
+    "includePlatforms":  [
+
+                         ],
+    "excludePlatforms":  [
+
+                         ],
+    "allowUnsafeCode":  false,
+    "overrideReferences":  false,
+    "precompiledReferences":  [
+
+                              ],
+    "autoReferenced":  true,
+    "defineConstraints":  [
+
+                          ],
+    "versionDefines":  [
+
+                       ],
+    "noEngineReferences":  false
+}

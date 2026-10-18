@@ -1,0 +1,407 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create the solution/assembly structure and core enums and identity types": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250956785
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250969519
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792251761988
+      }
+    ],
+    "1.2 Implement entity and state data models": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250958683
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792251765309
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792252125607
+      }
+    ],
+    "1.3 Set up the property-based testing framework and in-memory fixtures": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250960410
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792252130201
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253379006
+      }
+    ],
+    "2.1 Implement `ResourceSystem` accrual, affordability, and spending": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250960763
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792252131154
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253378151
+      }
+    ],
+    "3.1 Implement `PlacementSystem.TryPlace` validation and application": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250960924
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253701707
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253872363
+      }
+    ],
+    "4.1 Implement `MatchServer.SubmitAction` validation-before-application and idempotency": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250960999
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253891450
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254054816
+      }
+    ],
+    "5. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961102
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254060083
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254180856
+      }
+    ],
+    "6.1 Implement `SpawnSystem.Tick` interval emission and pending-hold logic": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961179
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792252132476
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253380447
+      }
+    ],
+    "7.1 Implement `MovementSystem.Tick` waypoint advancement and base arrival": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961253
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792252133450
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253382473
+      }
+    ],
+    "8.1 Implement `CombatSystem.Tick` targeting, interval damage, and removal": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961359
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792252134460
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253381368
+      }
+    ],
+    "9.1 Implement `VictorySystem.Evaluate` and disconnect resolution": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961429
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253387045
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253695660
+      }
+    ],
+    "10.1 Implement `MatchServer.Tick` ordered pipeline": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961493
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254186599
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254338927
+      }
+    ],
+    "11. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961603
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254343056
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254381608
+      }
+    ],
+    "12.1 Implement `LobbyManager` pairing, timeout, and disconnect handling": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961685
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253387932
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253696877
+      }
+    ],
+    "13.1 Implement NetworkVariable-based canonical state replication": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961764
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254387191
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792261140926
+      }
+    ],
+    "13.2 Implement client→server placement RPC and targeted rejection/event RPCs": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961852
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792261146189
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792262074631
+      }
+    ],
+    "13.3 Implement disconnection pause/resume and match-result delivery": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961915
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792262077666
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792262721576
+      }
+    ],
+    "14.1 Implement `GameClient` state mirroring and placement submission": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250961980
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792262725921
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792270506069
+      }
+    ],
+    "14.2 Implement placeholder sprite/color resolver and numeric displays with fallback": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250962087
+      },
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792270509368
+      }
+    ],
+    "15. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792250962145
+      }
+    ],
+    "2. Implement the resource economy system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253378257
+      }
+    ],
+    "1. Set up project structure, core data models, and test harness": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253379077
+      }
+    ],
+    "6. Implement the unit spawning system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253380534
+      }
+    ],
+    "8. Implement the combat system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253381436
+      }
+    ],
+    "7. Implement the unit movement system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253382540
+      }
+    ],
+    "9. Implement the victory system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253696513
+      }
+    ],
+    "12. Implement the lobby and pairing system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253697434
+      }
+    ],
+    "3. Implement the structure placement system": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792253872548
+      }
+    ],
+    "4. Implement the canonical action pipeline (validate + apply)": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254054961
+      }
+    ],
+    "10. Integrate the fixed-tick simulation pipeline": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792254339055
+      }
+    ],
+    "13. Implement networking, replication, and reconnection": [
+      {
+        "executionId": "aafa0f77-2ae6-4492-9d42-330813c8a080",
+        "chatSessionId": "sess_8d12e436-ec30-486f-8aec-4850472c9354",
+        "timestamp": 1792262721689
+      }
+    ]
+  }
+}
